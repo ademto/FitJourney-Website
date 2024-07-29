@@ -37,7 +37,8 @@ FitJourney is a comprehensive health and fitness platform designed to help users
 
 3. **Install dependencies:**
 
-   ```npm install
+   ```
+   npm install
 
    ```
 
